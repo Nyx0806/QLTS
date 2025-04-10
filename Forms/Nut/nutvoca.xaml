@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="QLTS.Forms.Nut.nutvoca"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QLTS.Forms.Nut"
+             mc:Ignorable="d" 
+             d:DesignHeight="213" d:DesignWidth="220">
+
+    <Border BorderBrush="Black" BorderThickness="2" CornerRadius="5" Margin="5">
+        <Grid Background="#F0CBA8"  Width="210" Height="203" >
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Name="txtTenNV" FontSize="18" Height="32" Width="203" Background="#F0CBA8" Margin="2,0,0,165" FontWeight="Bold" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Name="txtNgaylam" FontSize="14" Height="24" Width="203" Background="#F0CBA8" Margin="2,0,0,115" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Name="txtGioVao" FontSize="12" Height="24" Width="203" Background="#F0CBA8" Margin="2,0,0,60" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Name="txtGioRa" FontSize="12" Height="24" Width="203" Background="#F0CBA8" Margin="2,0,0,0" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Name="txtTongThoiGian" FontSize="12" Height="24" Width="203" Background="#F0CBA8" Margin="2,0,0,-60" />
+            </StackPanel>
+            <Button Click="BtnKetThucCa_Click" Content="Kết Thúc Ca" HorizontalAlignment="Center" Margin="0,154,0,0" VerticalAlignment="Top" Height="33" Width="128" FontWeight="Bold" FontSize="14" Background="#FFF2C193"/>
+        </Grid>
+    </Border>
+</UserControl>

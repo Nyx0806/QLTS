@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5083D9E-48FF-4F4E-AE79-CC70C6BA3205}|QLTS.csproj|C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\forms\\datmon\\datmon.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A5083D9E-48FF-4F4E-AE79-CC70C6BA3205}|QLTS.csproj|solutionrelative:forms\\datmon\\datmon.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5083D9E-48FF-4F4E-AE79-CC70C6BA3205}|QLTS.csproj|c:\\users\\vankh\\downloads\\final\\final\\final\\qlts\\sql\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5083D9E-48FF-4F4E-AE79-CC70C6BA3205}|QLTS.csproj|solutionrelative:sql\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5083D9E-48FF-4F4E-AE79-CC70C6BA3205}|QLTS.csproj|C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\forms\\datmon\\tichdiem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A5083D9E-48FF-4F4E-AE79-CC70C6BA3205}|QLTS.csproj|solutionrelative:forms\\datmon\\tichdiem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5083D9E-48FF-4F4E-AE79-CC70C6BA3205}|QLTS.csproj|C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\forms\\calam\\voca.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A5083D9E-48FF-4F4E-AE79-CC70C6BA3205}|QLTS.csproj|solutionrelative:forms\\calam\\voca.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5083D9E-48FF-4F4E-AE79-CC70C6BA3205}|QLTS.csproj|C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\forms\\calam\\luong.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A5083D9E-48FF-4F4E-AE79-CC70C6BA3205}|QLTS.csproj|solutionrelative:forms\\calam\\luong.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5083D9E-48FF-4F4E-AE79-CC70C6BA3205}|QLTS.csproj|C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\forms\\calam\\voca.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5083D9E-48FF-4F4E-AE79-CC70C6BA3205}|QLTS.csproj|solutionrelative:forms\\calam\\voca.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 152,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modify.cs",
+              "DocumentMoniker": "C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\Sql\\Modify.cs",
+              "RelativeDocumentMoniker": "Sql\\Modify.cs",
+              "ToolTip": "C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\Sql\\Modify.cs",
+              "RelativeToolTip": "Sql\\Modify.cs",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAqwKYBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:49:54.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatMon.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\Forms\\DatMon\\DatMon.xaml.cs",
+              "RelativeDocumentMoniker": "Forms\\DatMon\\DatMon.xaml.cs",
+              "ToolTip": "C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\Forms\\DatMon\\DatMon.xaml.cs",
+              "RelativeToolTip": "Forms\\DatMon\\DatMon.xaml.cs",
+              "ViewState": "AgIAADsBAAAAAAAAAAA+wEkBAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:41:57.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TichDiem.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\Forms\\DatMon\\TichDiem.xaml.cs",
+              "RelativeDocumentMoniker": "Forms\\DatMon\\TichDiem.xaml.cs",
+              "ToolTip": "C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\Forms\\DatMon\\TichDiem.xaml.cs",
+              "RelativeToolTip": "Forms\\DatMon\\TichDiem.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:41:49.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Luong.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\Forms\\CaLam\\Luong.xaml.cs",
+              "RelativeDocumentMoniker": "Forms\\CaLam\\Luong.xaml.cs",
+              "ToolTip": "C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\Forms\\CaLam\\Luong.xaml.cs",
+              "RelativeToolTip": "Forms\\CaLam\\Luong.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T01:12:03.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoCa.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\Forms\\CaLam\\VoCa.xaml.cs",
+              "RelativeDocumentMoniker": "Forms\\CaLam\\VoCa.xaml.cs",
+              "ToolTip": "C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\Forms\\CaLam\\VoCa.xaml.cs",
+              "RelativeToolTip": "Forms\\CaLam\\VoCa.xaml.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T01:11:55.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VoCa.xaml",
+              "DocumentMoniker": "C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\Forms\\CaLam\\VoCa.xaml",
+              "RelativeDocumentMoniker": "Forms\\CaLam\\VoCa.xaml",
+              "ToolTip": "C:\\Users\\vankh\\Downloads\\Final\\Final\\Final\\QLTS\\Forms\\CaLam\\VoCa.xaml",
+              "RelativeToolTip": "Forms\\CaLam\\VoCa.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-03T01:11:48.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

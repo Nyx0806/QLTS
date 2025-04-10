@@ -1,0 +1,106 @@
+﻿<Window x:Class="QLTS.Forms.NhanVien.ThongTin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QLTS.Forms.NhanVien"
+            mc:Ignorable="d"
+    Title="ThemNV" Height="550" Width="800"
+    WindowStartupLocation="CenterScreen"
+    WindowStyle="None"
+    AllowsTransparency="True"
+    Background="Transparent">
+
+<Border Background="White" BorderBrush="#CE9859" BorderThickness="8" CornerRadius="15" Padding="10">
+    <Border.Effect>
+        <DropShadowEffect BlurRadius="20" ShadowDepth="0" Color="Black" Opacity="0.5"/>
+    </Border.Effect>
+
+    <Grid Background="#F4D8B5" Margin="0,2,0,8">
+        <Border Grid.Column="0" Width="211" Height="204" CornerRadius="25"
+            Background="#CE9859" BorderBrush="#CE9859" BorderThickness="8"
+            HorizontalAlignment="Left" VerticalAlignment="Top" Margin="39,85,0,0">
+            <TextBlock Text="👤" FontSize="72" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#FFF4CBA0"/>
+        </Border>
+
+        <Label Content="Họ Tên" HorizontalAlignment="Left" Margin="304,58,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Height="39" Width="100"/>
+        <Label Content="Ngày Sinh " HorizontalAlignment="Left" Margin="304,107,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Height="39" Width="119"/>
+        <Label Content="SĐT" HorizontalAlignment="Left" Margin="304,158,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Height="39" Width="100"/>
+        <Label Content="Email" HorizontalAlignment="Left" Margin="304,205,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Height="38" Width="100"/>
+        <Label Content="Chức Vụ" HorizontalAlignment="Left" Margin="300,354,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Height="39" Width="100"/>
+
+        <TextBox x:Name="txtHoTen" HorizontalAlignment="Left" Margin="418,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="311" Height="34" FontSize="20"/>
+        <DatePicker x:Name="dpNgaySinh"
+        
+        HorizontalAlignment="Left" Margin="418,109,0,0"
+        VerticalAlignment="Top" Width="311" Height="34"
+        FontSize="20"/>
+        <TextBox x:Name="txtSDT" HorizontalAlignment="Left" Margin="418,160,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="311" Height="34" FontSize="20"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="418,207,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="311" Height="34" FontSize="20"/>
+
+        <ComboBox x:Name="cmbChucVu" FontSize="20" Foreground="Gray" Background="#F4CBA0"
+            FontWeight="Bold" BorderThickness="0" Padding="5"
+            Margin="418,354,204,111">
+
+        </ComboBox>
+        <Button Content="Quay Lại " HorizontalAlignment="Left" Margin="39,423,0,0" 
+            VerticalAlignment="Top" Height="49" Width="211" 
+            BorderBrush="#83705E" BorderThickness="3" Background="#F4CBA0" 
+            FontWeight="Bold"  FontSize="20" Foreground="#FF83705E" Click="Button_Click">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border Background="{TemplateBinding Background}" 
+                                    BorderBrush="{TemplateBinding BorderBrush}" 
+                                    BorderThickness="{TemplateBinding BorderThickness}" 
+                                    CornerRadius="10" Padding="5">
+                                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Label Content="Giới Tính" HorizontalAlignment="Left" Margin="304,261,0,0" 
+   VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Height="38" Width="100"/>
+        <ComboBox x:Name="cbGioitinh" HorizontalAlignment="Left" Margin="418,261,0,0" 
+      VerticalAlignment="Top" Width="142" Height="34" FontSize="20">
+
+        </ComboBox>
+        <TextBox x:Name="txtluong" HorizontalAlignment="Left" Margin="418,308,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="311" Height="34" FontSize="20"/>
+        <Label Content="Lương" HorizontalAlignment="Left" Margin="304,304,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Height="40" Width="100"/>
+        <Label Content="Mã NV " HorizontalAlignment="Left" Margin="304,15,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Height="38" Width="100"/>
+        <TextBox x:Name="txtma" HorizontalAlignment="Left" Margin="418,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="34" FontSize="20"/>
+        <Label Content="Trạng Thái" HorizontalAlignment="Left" Margin="287,408,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Height="40" Width="123"/>
+        <ComboBox x:Name="cmbTrangThai" FontSize="20" Foreground="Gray" Background="#F4CBA0"
+            FontWeight="Bold" BorderThickness="0" Padding="5"
+            Margin="418,408,204,56">
+
+        </ComboBox>
+        <Button Content="Lưu Lại Thông Tin " HorizontalAlignment="Left" Margin="39,337,0,0" 
+            VerticalAlignment="Top" Height="49" Width="211" 
+            BorderBrush="#83705E" BorderThickness="3" Background="#F4CBA0" 
+            FontWeight="Bold"  FontSize="20" Foreground="#FF83705E" Click="Button_Click_1">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border Background="{TemplateBinding Background}" 
+                                    BorderBrush="{TemplateBinding BorderBrush}" 
+                                    BorderThickness="{TemplateBinding BorderThickness}" 
+                                    CornerRadius="10" Padding="5">
+                                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+    </Grid>
+</Border>
+</Window>

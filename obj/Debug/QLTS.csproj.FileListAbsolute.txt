@@ -1,0 +1,390 @@
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\QLTS.exe.config
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\QLTS.exe
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\QLTS.pdb
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\QLTS.csproj.AssemblyReference.cache
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\QLTS_MarkupCompile.cache
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\QLTS_MarkupCompile.lref
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\QLTS.g.resources
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\QLTS.Properties.Resources.resources
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\QLTS.csproj.GenerateResource.cache
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\QLTS.csproj.CoreCompileInputs.cache
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\QLTS.exe
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\QLTS.pdb
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\Trangchu\Trangchu.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\QLTS_Content.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\bin\Debug\Database\QLTS.mdf
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\bin\Debug\Database\QLTS_log.ldf
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\Trangchu\Trangchu.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\MainWindow.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\App.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\MainWindow.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhatMon.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhat_Anvat.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhat_Trasua.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CapNhatMon\SuaMon.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CapNhatMon\ThemMon.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\Nut\HienLuong.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\Nut\nutmon.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\Nut\nutnv.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhatMon.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhat_Anvat.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhat_Trasua.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CapNhatMon\SuaMon.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CapNhatMon\ThemMon.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\Nut\HienLuong.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\Nut\nutmon.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\Nut\nutnv.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\NhanVien\NhanVien.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\NhanVien\PhaChe.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\NhanVien\PhucVu.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\NhanVien\ThemNV.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\NhanVien\ThongTin.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\NhanVien\ThuNgan.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\NhanVien\NhanVien.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\NhanVien\PhaChe.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\NhanVien\PhucVu.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\NhanVien\ThemNV.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\NhanVien\ThongTin.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\NhanVien\ThuNgan.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\DatMon\DatMon.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\DatMon\DoAnVat.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\DatMon\TraSua.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\DoanhThu\DoanhThu.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\DatMon\DatMon.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\DatMon\DoAnVat.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\DatMon\TraSua.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\DoanhThu\DoanhThu.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CaLam\HoatDong.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CaLam\Luong.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CaLam\VoCa.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\Nut\nutvoca.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CaLam\HoatDong.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CaLam\Luong.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\CaLam\VoCa.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\Nut\nutvoca.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\DatMon\TichDiem.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\DatMon\TichDiem.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\DatMon\bill.g.cs
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\Forms\DatMon\bill.baml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.barcodes.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.bouncy-castle-connector.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.commons.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.forms.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.io.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.kernel.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.layout.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.pdfa.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.pdfua.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.sign.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.styledxmlparser.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.svg.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Microsoft.Extensions.Options.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Newtonsoft.Json.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\System.Buffers.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\System.Memory.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\System.Numerics.Vectors.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\System.ValueTuple.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.barcodes.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.bouncy-castle-connector.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.commons.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.forms.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.io.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.kernel.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.layout.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.pdfa.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.pdfua.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.sign.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.styledxmlparser.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.svg.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Microsoft.Extensions.Options.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\Newtonsoft.Json.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\System.Buffers.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\System.Memory.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\System.Numerics.Vectors.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\System.ValueTuple.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\obj\Debug\QLTS.csproj.Up2Date
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\BouncyCastle.Crypto.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\BouncyCastle.Crypto.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\BouncyCastle.Cryptography.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.bouncy-castle-adapter.dll
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\BouncyCastle.Cryptography.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\itext.bouncy-castle-adapter.xml
+F:\C_C#_C++\Visual Studio Code\Final\QLTS\bin\Debug\bin\Debug\Fonts\arial.ttf
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\bin\Debug\Database\QLTS.mdf
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\bin\Debug\Database\QLTS_log.ldf
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\bin\Debug\Fonts\arial.ttf
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\QLTS.exe.config
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\QLTS.exe
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\QLTS.pdb
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.barcodes.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.commons.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.forms.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.io.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.kernel.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.layout.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.pdfa.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.pdfua.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.sign.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.svg.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\System.Buffers.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\System.Memory.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.barcodes.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.commons.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.forms.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.io.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.kernel.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.layout.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.pdfa.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.pdfua.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.sign.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\itext.svg.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\System.Buffers.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\System.Memory.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\QLTS.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CaLam\HoatDong.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CaLam\Luong.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CaLam\VoCa.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhatMon.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhat_Anvat.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhat_Trasua.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\SuaMon.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\ThemMon.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\DatMon\bill.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\DatMon\DatMon.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\DatMon\DoAnVat.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\DatMon\TichDiem.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\DatMon\TraSua.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\DoanhThu\DoanhThu.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\NhanVien\NhanVien.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\NhanVien\PhaChe.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\NhanVien\PhucVu.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\NhanVien\ThemNV.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\NhanVien\ThongTin.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\NhanVien\ThuNgan.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\Nut\HienLuong.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\Nut\nutmon.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\Nut\nutnv.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\Nut\nutvoca.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\Trangchu\Trangchu.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\App.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\QLTS_Content.g.cs
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\QLTS_MarkupCompile.cache
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\QLTS_MarkupCompile.lref
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CaLam\HoatDong.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CaLam\Luong.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CaLam\VoCa.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhatMon.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhat_Anvat.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhat_Trasua.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\SuaMon.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\ThemMon.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\DatMon\bill.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\DatMon\DatMon.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\DatMon\DoAnVat.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\DatMon\TichDiem.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\DatMon\TraSua.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\DoanhThu\DoanhThu.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\NhanVien\NhanVien.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\NhanVien\PhaChe.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\NhanVien\PhucVu.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\NhanVien\ThemNV.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\NhanVien\ThongTin.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\NhanVien\ThuNgan.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\Nut\HienLuong.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\Nut\nutmon.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\Nut\nutnv.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\Nut\nutvoca.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\MainWindow.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\Forms\Trangchu\Trangchu.baml
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\QLTS.g.resources
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\QLTS.Properties.Resources.resources
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\QLTS.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\QLTS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\QLTS.csproj.Up2Date
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\QLTS.exe
+C:\Users\Asus\Downloads\Final\Final\QLTS\obj\Debug\QLTS.pdb
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\bin\Debug\Database\QLTS.mdf
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\bin\Debug\Database\QLTS_log.ldf
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\bin\Debug\Fonts\arial.ttf
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\QLTS.exe.config
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\QLTS.exe
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\QLTS.pdb
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.barcodes.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.commons.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.forms.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.io.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.kernel.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.layout.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.pdfa.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.pdfua.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.sign.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.styledxmlparser.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.svg.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\System.Buffers.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\System.Memory.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\System.ValueTuple.dll
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.barcodes.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.commons.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.forms.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.io.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.kernel.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.layout.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.pdfa.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.pdfua.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.sign.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.styledxmlparser.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\itext.svg.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\System.Buffers.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\System.Memory.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\bin\Debug\System.ValueTuple.xml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\QLTS.csproj.AssemblyReference.cache
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CaLam\HoatDong.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CaLam\Luong.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CaLam\VoCa.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhatMon.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhat_Anvat.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhat_Trasua.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\SuaMon.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\ThemMon.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\DatMon\bill.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\DatMon\DatMon.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\DatMon\DoAnVat.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\DatMon\TichDiem.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\DatMon\TraSua.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\DoanhThu\DoanhThu.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\NhanVien\NhanVien.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\NhanVien\PhaChe.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\NhanVien\PhucVu.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\NhanVien\ThemNV.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\NhanVien\ThongTin.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\NhanVien\ThuNgan.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\Nut\HienLuong.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\Nut\nutmon.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\Nut\nutnv.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\Nut\nutvoca.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\MainWindow.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\Trangchu\Trangchu.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\App.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\QLTS_Content.g.cs
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\QLTS_MarkupCompile.cache
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\QLTS_MarkupCompile.lref
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CaLam\HoatDong.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CaLam\Luong.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CaLam\VoCa.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhatMon.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhat_Anvat.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\CapNhat_Trasua.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\SuaMon.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\CapNhatMon\ThemMon.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\DatMon\bill.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\DatMon\DatMon.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\DatMon\DoAnVat.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\DatMon\TichDiem.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\DatMon\TraSua.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\DoanhThu\DoanhThu.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\NhanVien\NhanVien.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\NhanVien\PhaChe.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\NhanVien\PhucVu.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\NhanVien\ThemNV.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\NhanVien\ThongTin.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\NhanVien\ThuNgan.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\Nut\HienLuong.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\Nut\nutmon.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\Nut\nutnv.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\Nut\nutvoca.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\MainWindow.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\Forms\Trangchu\Trangchu.baml
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\QLTS.g.resources
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\QLTS.Properties.Resources.resources
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\QLTS.csproj.GenerateResource.cache
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\QLTS.csproj.CoreCompileInputs.cache
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\QLTS.csproj.Up2Date
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\QLTS.exe
+C:\Users\vankh\Downloads\Final\Final\Final\QLTS\obj\Debug\QLTS.pdb

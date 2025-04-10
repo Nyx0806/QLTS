@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="QLTS.Forms.Nut.nutmon"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QLTS.Forms.Nut"
+                         mc:Ignorable="d" 
+             d:DesignHeight="241" d:DesignWidth="192">
+    <Grid>
+        <Button Background="#F2C193" Click="Button_Click" Height="231" Width="182">
+            <Grid Height="231" Width="182">
+
+                <Image x:Name="ImagePreview" Stretch="Uniform" Margin="6,7,9,72"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock x:Name="tbl_tenmon" FontSize="14" Height="23" Margin=" 4,0,0,-120" Width="172"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Giá: " FontSize="18" FontWeight="Bold" Height="25" Margin="5,0,0,-160"/>
+                    <TextBlock x:Name="tbl_gia" FontSize="18" Height="24" Margin="0,0,0,-160" Width="122" Foreground="Red"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Trạng Thái " FontSize="12" FontWeight="Bold" Height="19" Margin="5,0,0,-200"/>
+                    <TextBlock x:Name="tbl_trangthai" FontSize="12" Height="20" Margin="0,0,0,-200" Width="122" Foreground="Gray"/>
+                </StackPanel>
+
+            </Grid>
+        </Button>
+    </Grid>
+</UserControl>
